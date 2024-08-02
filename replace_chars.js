@@ -9,7 +9,9 @@ let script = fs.readFileSync('script.rb', 'utf-8')
 
 for (const character of intlCharacters) {
   const code = character.codePointAt()
-  script = script.replaceAll(character, `@u${code}.`)
+  const regex = new RegExp(character, 'g')
+  script = script.replace(regex, `@u${code}.`)
 }
 
 fs.writeFileSync('script.rb', script)
+
