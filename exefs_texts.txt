@@ -1,4 +1,4 @@
-0x15bd60	Gohda: "@c649.The dining hall was locked up@c999.. Of course, there is a lock on the doors to the dining hall, but they usually remained unlocked. I knocked, but there was no answer..."@r@rKumasawa: "@c649.That's when I arrived@c999.. I recommended that he try unlocking the door, just in case."@r@rGohda: "When @c649.I unlocked the door with a master key@c999., a terrifying sight awaited me inside......"@r@rKumasawa: "@c649.Eva-sama, Hideyoshi-sama, Rudolf-sama, Kyrie-sama, Rosa-sama, and Genji-san, six people in all, were lying there, covered in blood......@c999."@r@rKrauss: "A great tumult followed. @c649.Everyone gathered in the dining hall@c999.."	郷田@r「@c649.食堂は施錠されていました。@c999.確かに食堂に鍵は付いていますが、普段、施錠することなどありません。ノックしたのですが返事はなく…」@r@z25.@r@z100.熊沢@r「@c649.そこに私が来たのです。@c999.万一のこともあるから、鍵を開けてみたらと勧めたのです」@r@z25.@r@z100.郷田@r「@c649.マスターキーで扉を開ける@c999.と、中は恐ろしいことに……」@r@z25.@r@z100.熊沢@r「@c649.絵羽さま、秀吉さま、留弗夫さま、霧江さま、楼座さま、そして源次さんの、計６人が血塗れになって倒れていたのでございます……@c999.」@r@z25.@r@z100.蔵臼@r「それで後は大騒ぎだ。@c649.全員が食堂に集まった@c999.」
+0x15bd60	Gohda: "@c649.El comedor estaba cerrado@c999.. Por supuesto, hay un pestillo en las puertas del comedor, pero normalmente se deja sin poner. Llamé a la puerta, pero no respondieron..."@r@rKumasawa: "@c649.Fue entonces cuando llegué@c999.. Le recomendé que probara a abrir la puerta, por si acaso."@r@rGohda: "Cuando @c649.abrí la puerta con una llave maestra@c999., vi algo terrible que me esperaba dentro de la habitación......"@r@rKumasawa: "@c649.Eva-sama, Hideyoshi-sama, Rudolf-sama, Kyrie-sama, Rosa-sama, and Genji-san, seis personas en total, yacían allí, cubiertas de sangre......@c999."@r@rKrauss: "Se formó un gran alboroto. @c649.Todos se reunieron en el comedor@c999.."	郷田@r「@c649.食堂は施錠されていました。@c999.確かに食堂に鍵は付いていますが、普段、施錠することなどありません。ノックしたのですが返事はなく…」@r@z25.@r@z100.熊沢@r「@c649.そこに私が来たのです。@c999.万一のこともあるから、鍵を開けてみたらと勧めたのです」@r@z25.@r@z100.郷田@r「@c649.マスターキーで扉を開ける@c999.と、中は恐ろしいことに……」@r@z25.@r@z100.熊沢@r「@c649.絵羽さま、秀吉さま、留弗夫さま、霧江さま、楼座さま、そして源次さんの、計６人が血塗れになって倒れていたのでございます……@c999.」@r@z25.@r@z100.蔵臼@r「それで後は大騒ぎだ。@c649.全員が食堂に集まった@c999.」
 0x15fdca	Jessica: "There was a chance they might've been alive still. ......Everyone was shaking them desperately."@r@rShannon: "But it was no use... @c649.The death of each parent was confirmed by their own child@c999...."@r@rKanon: "@c649.Doctor Nanjo and I confirmed that Genji-sama was dead@c999.."@r@rNanjo: "It was such a terrible way to be killed...... @c649.Doctor or not, no one examining a body will reach the wrong conclusion@c999.."@r@rMaria: "Looks like @c649.all of the victims died instantly@c999.. ......Kihihihihi."	朱志香@r「ひょっとしたら生きてるかもと。……みんな懸命に揺さぶってたぜ」@r@z25.@r@z100.紗音@r「しかし、駄目でした…。@c649.お子様方はそれぞれ、自分の親が間違いなく死んでいることを確認なさいました…@c999.」@r@z25.@r@z100.嘉音@r「@c649.僕と南條先生は、源次さまが死んでいることを確認しました@c999.」@r@z25.@r@z100.南條@r「惨たらしい殺され方でした……。@c649.私でなくとも、誰も検死は誤りません@c999.」@r@z25.@r@z100.真里亞@r「@c649.犠牲者はみんな、即死@c999.だったろうね。……きひひひひひ」
 0x160069	Krauss: "@c649.After inspecting the interior of the dining hall, we determined that all of the doors and windows had been locked, making it a locked room@c999.."@r@rBattler: "And @c649.nothing suspicious was found inside the dining hall@c999.."@r@rGeorge: "Of course, @c649.there was no one hiding in the dining hall either@c999.."@r@rKrauss: "Naturally. All of us are here right now. @c649.It's clear that no one is hiding@c999.."	蔵臼@r「@c649.食堂内を調べた結果、扉も窓も、全て施錠され、密室であったことがわかった@c999.」@r@z25.@r@z100.戦人@r「そして、@c649.食堂内から、不審なものは何も見つからなかった@c999.」@r@z25.@r@z100.譲治@r「もちろん、@c649.食堂内に何者かが隠れているということもなかったよ@c999.」@r@z25.@r@z100.蔵臼@r「隠れるも何も。私たちは今ここに全員がいるではないかね。@c649.誰も隠れていないことは明白だ@c999.」
 0x15e683	Natsuhi: "To prevent trouble later on, @c649.we destroyed Genji's master key@c999.."	夏妃@r「後のトラブルを予防するため、@c649.源次のマスターキーを破壊しておきました@c999.」
@@ -32,28 +32,28 @@
 0x15b027	- First twilight@r"Looks like @c649.all of the victims died instantly@c999.. ......Kihihihihi."@r@r- Second twilight@r"@c649.We put duct tape all over the outside of the doors and windows, sealing them@c999.!"@r@r- Seventh twilight@r"@c649.Everything is locked up perfectly@c999.. How did it happen, if this is a locked room?"@r@r- Eighth twilight@r"@c649.There's no way she could live through this@c999.. Kihihihihi."@r"Yeah. @c649.The three of us couldn't have killed Jessica@c999.."@r"Kihihi, thanks. @c649.George onii-chan couldn't kill an adult. He could kill a kid though@c999.. Kihihihihihi."	■第一の晩@z100.@r「@c649.犠牲者はみんな、即死@c999.だったろうね。……きひひひひひ」@r@z25.@r@z100.@z110.■第二の晩@z100.@r「@c649.外からガムテープでベタベタと、窓や扉を封印したよ！@c999.」@r@z25.@r@z100.@z110.■第七の晩@z100.@r「@c649.戸締りは完璧だよ。@c999.密室なのにどうして？」@r@z25.@r@z100.@z110.■第八の晩@z100.@r「@c649.これで生きているわけがない@c999.もんね。きひひひひ」@r@z25.@r@z100.「うん。@c649.私たち３人に朱志香は殺せない@c999.」@r@z25.@r@z100.「きひひ、ありがとう。@c649.譲治お兄ちゃんだって、大人は殺せないよ。子供は殺せるけれど。@c999.きひひひひひひ」
 0x161012	- First twilight@r"@c649.Doctor Nanjo and I confirmed that Genji-sama was dead@c999.."@r@r- Second twilight@r"@c649.Krauss-sama and Natsuhi-sama lay sprawled on the floor inside the room@c999.."@r"@c649.All of us servants can prove an alibi for all of the other servants@c999.."	■第一の晩@z100.@r「@c649.僕と南條先生は、源次さまが死んでいることを確認しました@c999.」@r@z25.@r@z100.@z110.■第二の晩@z100.@r「@c649.部屋の中には、蔵臼さまと夏妃さまが倒れていました@c999.」@r@z25.@r@z100.「@c649.僕たち使用人全員は、それぞれが使用人全員のアリバイを証明できます@c999.」
 0x15d200	- First twilight@r"@c649.That's when I arrived@c999.. I recommended that he try unlocking the door, just in case."@r"@c649.Eva-sama, Hideyoshi-sama, Rudolf-sama, Kyrie-sama, Rosa-sama, and Genji-san, six people in all, were lying there, covered in blood......@c999."	■第一の晩@z100.@r「@c649.そこに私が来たのです。@c999.万一のこともあるから、鍵を開けてみたらと勧めたのです」@r@z25.@r@z100.「@c649.絵羽さま、秀吉さま、留弗夫さま、霧江さま、楼座さま、そして源次さんの、計６人が血塗れになって倒れていたのでございます……@c999.」
-0x162c2a	Continue reading from this bookmark?	ロードします。よろしいですか？
-0x162c58	Remove this bookmark?	このセーブデータを削除します。よろしいですか？
-0x162147	Place this bookmark on the current page?	セーブを行います。よろしいですか？
-0x162fd0	Move this bookmark to the current page?	セーブを行います。@r内容は上書きされますが、よろしいですか？
-0x15f8f8	Unused bookmark	データがありません
-0x162105	Highlight position	カーソル位置
-0x161aae	In-game position	ゲーム内現在位置
-0x15dd4e	Current position	カーソル位置/ゲーム内現在位置
-0x163263	Start	先頭
-0x161ac7	End	後尾
-0x15f87a	Reset ALL settings to default?	設定を初期値に戻します。よろしいですか？
-0x162ebe	Go back to the title screen?	ゲームを終了して、タイトル画面に戻ります。@rよろしいですか？
-0x1619f6	Skip this chapter?	次のチャプターか選択肢までスキップします。@rよろしいですか？
-0x15fb2d	Return to the last chapter?	前のチャプターに戻ります。@rよろしいですか？
+0x162c2a	¿Cargar desde este marcador?	ロードします。よろしいですか？
+0x162c58	¿Eliminar este marcador?	このセーブデータを削除します。よろしいですか？
+0x162147	¿Guardar el marcador en esta página?	セーブを行います。よろしいですか？
+0x162fd0	¿Mover este marcador en esta página?	セーブを行います。@r内容は上書きされますが、よろしいですか？
+0x15f8f8	Marcador vacío	データがありません
+0x162105	Pos. del cursor	カーソル位置
+0x161aae	Posición del juego	ゲーム内現在位置
+0x15dd4e	Posición actual	カーソル位置/ゲーム内現在位置
+0x163263	Inicio	先頭
+0x161ac7	Fin	後尾
+0x15f87a	¿Restablecer todo por defecto?	設定を初期値に戻します。よろしいですか？
+0x162ebe	¿Volver a la menú principal?	ゲームを終了して、タイトル画面に戻ります。@rよろしいですか？
+0x1619f6	¿Saltar este capítulo?	次のチャプターか選択肢までスキップします。@rよろしいですか？
+0x15fb2d	¿Volver al capítulo anterior?	前のチャプターに戻ります。@rよろしいですか？
 0x15b467	%dh %dm	%d時間 %d分
 0x164021	%dm	%d分
-0x161a50	Yes	はい
+0x161a50	Sí	はい
 0x161d57	No	いいえ
-0x15c8eb	Start reading from the selected line?	シーンジャンプを実行します。@rよろしいですか？
-0x15f024	Writing save data.@rPlease do not close the game.	セーブデータを更新中です。@r電源を切ったり、アプリケーションを終了したりしないでください。
-0x16468c	Start the game?	このシナリオを開始します。@rよろしいですか？
-0x16119c	All eight main Episodes@rwill be marked as read.@rThe story cannot be experienced@rout of intended order.@rYou should not use this option to skip content@ryou have never read before.@r@rDo you accept?	本編シナリオの全てと、追加シナリオの一部をアンロックします。よろしいですか？@r@z75.一度アンロックしたら元の状態に戻すことはできません。ご注意ください。
-0x161d8e	Automatic sleep will now be disabled@rwhen using Auto Mode and the Music Box.	オートモード中とMusicBoxの楽曲再生中は、@r本体の自動スリープ機能が動作しないようになります。
+0x15c8eb	¿Leer desde la línea seleccionada?	シーンジャンプを実行します。@rよろしいですか？
+0x15f024	Guardando datos.@rNo apague el juego.	セーブデータを更新中です。@r電源を切ったり、アプリケーションを終了したりしないでください。
+0x16468c	¿Iniciar el juego?	このシナリオを開始します。@rよろしいですか？
+0x16119c	Todos los episodios@rse marcarán como leídos.@rLa historia no debe experimentarse@rfuera del orden previsto.@rNo debe utilizar esta opción para omitir contenidos@rque no haya leído antes.@r@r¿Acepta?	本編シナリオの全てと、追加シナリオの一部をアンロックします。よろしいですか？@r@z75.一度アンロックしたら元の状態に戻すことはできません。ご注意ください。
+0x161d8e	La suspensión automática se desactivará@rcuando se use el Modo Automático y la Caja de Música.	オートモード中とMusicBoxの楽曲再生中は、@r本体の自動スリープ機能が動作しないようになります。
 0x163da3	OK	確認
 0x15e9cf	Unlocked: 	達成率:
